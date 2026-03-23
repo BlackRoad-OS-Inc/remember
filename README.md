@@ -1,5 +1,13 @@
 # remember
 
+> Remember — AI-powered persistent memory system with vector search, SQLite storage, and cross-session recall (BlackRoad integration)
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
+# remember
+
 Remember — AI-powered persistent memory system with vector search, SQLite storage, and cross-session recall (BlackRoad integration)
 
 **BlackRoad-OS-Inc** — Corporate root — all IP and governance
